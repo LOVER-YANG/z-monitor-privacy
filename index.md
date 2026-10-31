@@ -1,8 +1,3 @@
----
-title: Z Monitor 隐私政策
-lang: zh-CN
----
-
 # Z Monitor 隐私政策
 
 - 更新日期：2026 年 10 月 31 日
