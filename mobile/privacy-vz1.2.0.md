@@ -1,8 +1,3 @@
----
-layout: default
-title: Z Monitor VZ1.2.0 隐私政策 手机版
----
-
 # Z Monitor 隐私政策
 
 - 更新日期：2026 年 11 月 12 日
